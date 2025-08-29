@@ -3,7 +3,7 @@
 
 # Browser Automation AI Agent
 
-An **AI-powered browser automation agent** built with [OpenAI Agent SDK](https://github.com/openai/agents), [Playwright](https://playwright.dev/), and [Zod](https://zod.dev/).
+An **AI-powered browser automation agent** built with [OpenAI Agent SDK](https://openai.github.io/openai-agents-js/guides/agents/), [Playwright](https://playwright.dev/), and [Zod](https://zod.dev/).
 This project demonstrates how to leverage AI agents for dynamic browser interactions such as form filling, navigation, and data extraction.
 
 ---
@@ -13,7 +13,6 @@ This project demonstrates how to leverage AI agents for dynamic browser interact
 * 🤖 AI Agent powered by OpenAI Agent SDK
 * 🌐 Automated browser workflows with Playwright
 * ✅ Schema validation using Zod
-* 📸 Capture outputs/screenshots for debugging
 * 🎥 Demo video included
 
 ---
